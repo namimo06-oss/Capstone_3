@@ -30,3 +30,6 @@ This project was completed using Power BI to analyze bookstore sales and shippin
 ## Author
 
 Natalia Miranda
+
+## VIDEO LINK 
+https://drive.google.com/file/d/19O9P2A2HAMMapNRNmoFV1AgzFzs2rWVC/view?usp=drive_link
